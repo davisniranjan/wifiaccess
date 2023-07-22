@@ -90,6 +90,7 @@ class _LoginPageState extends State<LoginPage> {
 }
 
 class WifiAccessPage extends StatelessWidget {
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
